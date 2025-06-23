@@ -1,6 +1,6 @@
 # 📚 Book Recommender System — ML & Streamlit Project
 
-An interactive book recommendation system built using Python and Streamlit, powered by machine learning techniques and preprocessed similarity scores. This project allows users to get personalized book suggestions and explore top-rated books.
+An interactive book recommendation system built using Python and Streamlit, powered by machine learning techniques and preprocessed similarity scores. This project allows users to get personalized book suggestions and explore top-rated books. Try it here: https://book-recommend-system.streamlit.app/
 
 ---
 
